@@ -39,6 +39,19 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1702333462.496382,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "c_user",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "100088283454893"
+		},
+		{
+			"domain": ".facebook.com",
 			"expirationDate": 1671311949.935928,
 			"hostOnly": false,
 			"httpOnly": false,
@@ -52,20 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1702277303.649612,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "c_user",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "100088283454893"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671346287,
+			"expirationDate": 1671402507,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -78,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1702277303.649612,
+			"expirationDate": 1702333462.496382,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -87,11 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "27%3Ay-PHvw-Px1b9_w%3A2%3A1670707148%3A-1%3A-1%3A%3AAcXLt-N8q4ZSKrBRYzNQ20Z6ynWsCoLOqmqwDUFMHQ"
+			"value": "27%3Ay-PHvw-Px1b9_w%3A2%3A1670707148%3A-1%3A-1%3A%3AAcWKRxq_msmLUT9Mhdl4bOTGc_lSQnX6W9CRc0iLTw"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678517302.649612,
+			"expirationDate": 1678573474.514934,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +100,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0b8PWRhQ7I5SyvLkq.AWWSPtchfybyWyyqUU4Yv0iuqN0.BjlX04.x0.AAA.0.0.BjlX04.AWU-ClOz0ZI"
+			"value": "0fC4nLXjM6ORLwl6r.AWXabdcDkc5l-AjyHl9oaaZHKOU.BjlliX.x0.AAA.0.0.Bjllij.AWW_QdjWIl8"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,8 +112,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670741460299%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670797680048%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "11.12.2022 22:23 Farm1-3_by_Fazendeiro"
+	"lastEventDate": "11.12.2022 22:28 Farm1-3_by_Fazendeiro"
 }
