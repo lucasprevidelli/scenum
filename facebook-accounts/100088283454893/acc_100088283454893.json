@@ -8,7 +8,7 @@
 	"amountFriends": "",
 	"screenname": "Iane Hissayassu",
 	"birthdate": "1998 March 5",
-	"country": "",
+	"country": "Taquaritinga",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -39,32 +39,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1702243138.935928,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "27%3Ay-PHvw-Px1b9_w%3A2%3A1670707148%3A-1%3A-1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1702243138.935928,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "c_user",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "100088283454893"
-		},
-		{
-			"domain": ".facebook.com",
 			"expirationDate": 1671311949.935928,
 			"hostOnly": false,
 			"httpOnly": false,
@@ -78,20 +52,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678483665.204661,
+			"expirationDate": 1702277303.649612,
 			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
+			"httpOnly": false,
+			"name": "c_user",
 			"path": "/",
 			"sameSite": "no_restriction",
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0oFh6qVc6MQhWss20.AWUT3rG84fb2_gvk3dT7yI7LD7w.BjlPeR.x0.AAA.0.0.BjlPnR.AWUp5W6lVoA"
+			"value": "100088283454893"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1671312609,
+			"expirationDate": 1671346287,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -104,6 +78,32 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1702277303.649612,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "27%3Ay-PHvw-Px1b9_w%3A2%3A1670707148%3A-1%3A-1%3A%3AAcXLt-N8q4ZSKrBRYzNQ20Z6ynWsCoLOqmqwDUFMHQ"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1678517302.649612,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0b8PWRhQ7I5SyvLkq.AWWSPtchfybyWyyqUU4Yv0iuqN0.BjlX04.x0.AAA.0.0.BjlX04.AWU-ClOz0ZI"
+		},
+		{
+			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -112,8 +112,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670707791473%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670741460299%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "11.12.2022 06:47 Farm1-3_by_Fazendeiro"
+	"lastEventDate": "11.12.2022 06:51 Farm1-3_by_Fazendeiro"
 }
