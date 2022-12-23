@@ -39,20 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1671197926.037651,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "locale",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "pt_BR"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1702491406.831896,
+			"expirationDate": 1702569798.471747,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1702491406.831896,
+			"expirationDate": 1702569798.471747,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -74,11 +61,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "35%3AToyJC9UK51UX4Q%3A2%3A1670593124%3A-1%3A-1%3A%3AAcX8VBaq4ysMApmiRn2cR1bHXEg-pzFmKMinBihKHw"
+			"value": "35%3AToyJC9UK51UX4Q%3A2%3A1670593124%3A-1%3A-1%3A%3AAcW4j8IxikRxWKu6yjhmvgrsgNKWiVlpWv-YUVj3EA"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1671634775,
+			"expirationDate": 1672428422,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -87,11 +74,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1440x712"
+			"value": "2560x892"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678805736.571366,
+			"expirationDate": 1679599400.417547,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +87,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0Lx4boa0G9dQjD1ZT.AWW6B4QE7M4dhkIHrNmhuAqqhh8.BjmMGO.eA.AAA.0.0.BjmePp.AWVBOLfQ1h4"
+			"value": "0jkvO1EYN5RraENgy.AWW37tZ4iu1NUN3EzUpNArnzBHA.BjmfPH.eA.AAA.0.0.BjpgAp.AWUIBosB99A"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,8 +99,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671029982643%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671823573594%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "23.12.2022 19:22 Farm3-8_by_Fazendeiro"
+	"lastEventDate": "23.12.2022 19:27 Farm3-8_by_Fazendeiro"
 }
