@@ -5,7 +5,7 @@
 	"status": 2,
 	"id": "100088806241730",
 	"name": "",
-	"amountFriends": "",
+	"amountFriends": "3",
 	"screenname": "Fernanda Afonso",
 	"birthdate": "1992 May 26",
 	"country": "",
@@ -39,20 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1671196209.729033,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "locale",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "pt_BR"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1702561366.50789,
+			"expirationDate": 1703353945.604113,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1671630404,
+			"expirationDate": 1672422929,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -74,24 +61,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1440x712"
+			"value": "2560x892"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1702561366.50789,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "5%3A3l1kFoKD3dHJJA%3A2%3A1670591408%3A-1%3A-1%3A%3AAcVloQOvvF_s655DnkrqI0ZigFN2JUiyTzBIs-H4hg"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1678801377.37989,
+			"expirationDate": 1679593944.605113,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +74,20 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "05XgmCM4mMVYbr8Qp.AWULqT0foA_iNdne2XlMtuqGidw.BjmdLX.WS.AAA.0.0.BjmdLi.AWUvwB_aIFE"
+			"value": "0vmuZF04wkY0fpEF5.AWXuCLFo4ACmmSC1sYfhANZjMEk.Bjpera.WS.AAA.0.0.Bjpera.AWWSIqA9QBI"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1703353945.605113,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "5%3A3l1kFoKD3dHJJA%3A2%3A1670591408%3A-1%3A12493%3A%3AAcUmINVjnim85UX-LfRn5UjflIOrXe_xVrPP88W7NQ"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,8 +99,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671025555272%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671818082920%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "23.12.2022 17:51 Farm3-8_by_Fazendeiro"
+	"lastEventDate": "23.12.2022 17:55 Farm3-8_by_Fazendeiro"
 }
