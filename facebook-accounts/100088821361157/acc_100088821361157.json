@@ -5,7 +5,7 @@
 	"status": 2,
 	"id": "100088821361157",
 	"name": "",
-	"amountFriends": "",
+	"amountFriends": "3",
 	"screenname": "Rayssa Ferrari",
 	"birthdate": "2001 October 15",
 	"country": "Taquaritinga",
@@ -39,20 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1671201503.109664,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "locale",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "pt_BR"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1702573790.637517,
+			"expirationDate": 1703373934.006972,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1671642731,
+			"expirationDate": 1672442871,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -74,24 +61,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1440x712"
+			"value": "2560x892"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1702573790.637517,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "29%3AhIs4xn41OgMbaw%3A2%3A1670596701%3A-1%3A-1%3A%3AAcUNJhfzHcrPig0VWHmPJf_qw9NaJQZDpasz0ww-LA"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1678813789.637517,
+			"expirationDate": 1679613933.006972,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +74,20 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0JGXg1H8aDXbtlXjN.AWVK6Ry4h5Gt1ahjUbuDkeNzpUk.BjmgNf.IM.AAA.0.0.BjmgNf.AWW0905fB_Y"
+			"value": "0EMjNkpsyYUuN0oud.AWW1X4CwmIa75bpouRbGhmXU2BA.Bjpjju.IM.AAA.0.0.Bjpjju.AWUrk2WAHLw"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1703373934.006972,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "29%3AhIs4xn41OgMbaw%3A2%3A1670596701%3A-1%3A13667%3A%3AAcU2MKONGc4bMax6VXfgHVuvY7aXfI0ZJtWfkhRYU2o"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,8 +99,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671037935393%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671838063153%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "23.12.2022 23:25 Farm3-8_by_Fazendeiro"
+	"lastEventDate": "23.12.2022 23:27 Farm3-8_by_Fazendeiro"
 }
