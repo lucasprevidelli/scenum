@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1702588102.668044,
+			"expirationDate": 1703393233.406114,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -52,20 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1671311949.935928,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "locale",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "pt_BR"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671657164,
+			"expirationDate": 1672462239,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -74,24 +61,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1440x712"
+			"value": "2560x892"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678828101.668044,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0uQGN12ZUJGCdleXA.AWVydmp-ZBefuNWbM2Ey5BcXR0A.BjmjtH.x0.AAA.0.0.BjmjtH.AWWT5-YKV90"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1702588102.668044,
+			"expirationDate": 1703393233.406114,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -100,7 +74,20 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "27%3Ay-PHvw-Px1b9_w%3A2%3A1670707148%3A-1%3A-1%3A%3AAcWtj3JD1jXmbf0b0uffOcepUYYc7tQTBC3B_l0NwxI"
+			"value": "27%3Ay-PHvw-Px1b9_w%3A2%3A1670707148%3A-1%3A-1%3A%3AAcWNKp_KDm8AZpQ-aNLijS1tmaz384Qk62-5LWkCslQ"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1679633232.406114,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0swmT3t5tuRybuwPq.AWWqrUDAWynFRA9ZfCfQ1Kv63tU.BjpoRS.x0.AAA.0.0.BjpoRS.AWVKhq4oUtg"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,8 +99,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671052334526%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671857413615%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "24.12.2022 04:46 Farm3-8_by_Fazendeiro"
+	"lastEventDate": "24.12.2022 04:50 Farm3-8_by_Fazendeiro"
 }
